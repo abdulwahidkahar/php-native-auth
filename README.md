@@ -5,5 +5,4 @@
 - Pencegahan SQL Injection: Semua query database yang melibatkan input dari pengguna dieksekusi menggunakan Prepared Statements (prepare, bind_param, execute) untuk mencegah serangan SQL Injection.
 
 
-#### Ya walaupun sudah ada Framework yang sudah memadai dan sudah diatur oleh mereka 
-#### saya rasa kita tetap perlu memahami code dan bagaimana program kita itu bekerja
+#### Ya walaupun sudah ada Framework yang sudah memadai dan sudah diatur oleh mereka saya rasa kita tetap perlu memahami code dan bagaimana program kita itu bekerja
